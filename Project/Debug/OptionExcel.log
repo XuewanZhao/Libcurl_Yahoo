@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\njucd\desktop\teamp\optionexcel\exceldriver\excelimports.cpp(52): warning C4192: automatically excluding 'IFont' while importing type library 'C:\Program Files (x86)\Microsoft Office\root\Office16\excel.exe'
+c:\users\njucd\desktop\teamp\optionexcel\exceldriver\excelimports.cpp(52): warning C4192: automatically excluding 'IPicture' while importing type library 'C:\Program Files (x86)\Microsoft Office\root\Office16\excel.exe'
+  stock.cpp
+  YeMatrix.cpp
+  ShowData.cpp
+  GetData.cpp
+  stdafx.cpp
+  DatasimException.cpp
+  ExcelMechanisms.cpp
+  ExcelImports.cpp
+  ExcelDriver.cpp
+  StringConversions.cpp
+  Category.cpp
+c:\users\njucd\desktop\teamp\optionexcel\category.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  OptionExcel.vcxproj -> C:\Users\njucd\Desktop\TeamP\Debug\TeamP.exe
+  OptionExcel.vcxproj -> C:\Users\njucd\Desktop\TeamP\Debug\TeamP.pdb (Partial PDB)
